@@ -7,7 +7,7 @@ variable "sgs" {
 
 type = "list"
 
-default = ["sg-07b2fc6c", "sg-48bba323"]
+default = ["sg-00edb3cb06e046caf", "sg-01b02f9ccd51fd4ea"]
 
 }
 
