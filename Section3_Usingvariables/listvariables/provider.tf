@@ -5,5 +5,6 @@ provider "aws" {
   # secret_key = "DJLDDGGHH"
 
   region     = "us-east-2"
+  version = "~> 2.0"
 
 }
