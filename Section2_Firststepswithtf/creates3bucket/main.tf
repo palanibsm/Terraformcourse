@@ -1,6 +1,6 @@
 resource "aws_s3_bucket" "terraform-s3" {
 
-bucket = "terraform-s3-testing"
+bucket = "terraform-s3-testing-sen"
 
 
 versioning {
