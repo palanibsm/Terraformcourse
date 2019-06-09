@@ -4,6 +4,6 @@ provider "aws" {
 
   # secret_key = "DJLDDGGHH"
 
-  region     = "us-east-2"
+  region     = "${var.region}"
 
 }
