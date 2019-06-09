@@ -22,9 +22,9 @@ type="map"
 
 
 
-us-east-1="ami-14c5486b"
+us-east-1="ami-0bc0814ce7c141032"
 
-us-east-2="ami-922914f7"
+us-east-2="ami-0a0cb11e4bf1a8a39"
 
 }
 
