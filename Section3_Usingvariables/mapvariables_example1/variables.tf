@@ -1,6 +1,6 @@
 variable "amitype" {
 
-default = "ami-922914f7"
+default = "ami-04768381bf606e2b3"
 
 }
 
