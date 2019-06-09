@@ -4,7 +4,7 @@ ami = "${var.amitype}"
 
 instance_type="${lookup(var.instance_type,var.env)}"
 
-tags {
+tags = {
 
     Name = "demoinstance"
 
